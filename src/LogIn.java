@@ -87,6 +87,7 @@ public class LogIn extends JFrame {
 		LogInButton.setBorder(null);
 		LogInButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+			
 				String name = u_name.getText();
 				String passw = new String(pass.getPassword());
 

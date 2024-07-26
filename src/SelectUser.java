@@ -108,21 +108,6 @@ public class SelectUser extends JFrame {
 		lblNewLabel_2.setIcon(new ImageIcon("backgrounds\\user.png"));
 		lblNewLabel_2.setBounds(448, 228, 32, 52);
 		contentPane.add(lblNewLabel_2);
-		
-		
-
-//				try {
-//					BufferedImage bufferedImage = ImageIO.read(new File("D:\\Echlipse-workspace\\CheckIn_CheckOut_System\\backgrounds\\reception (1).png"));
-//					Image image = bufferedImage.getScaledInstance(800, 500, Image.SCALE_DEFAULT);
-//					
-//					ImageIcon icon = new ImageIcon(image);
-//					JFrame frame = new JFrame();
-//					frame.setLayout(new FlowLayout());
-//					frame.setSize(150, 150);
-//				} catch (IOException e1) {
-//					// TODO Auto-generated catch block
-//					e1.printStackTrace();
-//				}
 				
 	}
 	
